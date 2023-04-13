@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Finance is a critical aspect of our daily lives, and it plays a vital role in the success of businesses and individuals alike. Over the years, technology has brought significant changes to the finance industry, and today,","photo":"https://iili.io/HvumdDF.jpg"},
+  {"title":"how to use this app 2","desc":"The success of both enterprises and individuals depends on finance, which is an essential part of our daily life. The finance sector has undergone substantial changes as a result of technology over time, and today,","photo":"https://iili.io/Hvum9HB.webp"},
+  {"title":"advance pack 3","desc":"finance applications are a vital part of the industry. In this article, we will explore the applications of finance topics and how they are impacting the industry.","photo":"https://iili.io/HvumHAP.webp"},
+  {"title":"tips mod 4","desc":"Personal finance applications have become increasingly popular in recent years. These apps allow individuals to track their expenses, create budgets, and manage their finances more efficiently. ","photo":"https://iili.io/HvumJN1.webp"},
+  {"title":"advice pack 5","desc":"Applications for personal finances have grown in popularity in recent years. People may track their spending using these apps, make budgets, and take better care of their money.","photo":"https://iili.io/HvumqKv.jpg"},
+  {"title":"helper mod 6","desc":"There are many different types of personal finance apps, including budgeting apps, investment tracking apps, and bill reminder apps.","photo":"https://iili.io/HvumKiJ.jpg"},
+  {"title":"tips pack 7","desc":"Personal financial apps come in a wide variety of forms, such as those for budgeting, managing investments, and setting payment reminders.","photo":"https://iili.io/HvumFVa.jpg"},
+  {"title":"advance mod 8","desc":"One of the most popular personal finance apps is Mint. Mint is a free app that allows users to connect their bank accounts, credit cards, and other financial accounts to track their expenses and create budgets.","photo":"https://iili.io/Hvum3og.png"}
 
    ]
  
